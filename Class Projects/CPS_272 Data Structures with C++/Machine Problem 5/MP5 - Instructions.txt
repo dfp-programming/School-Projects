@@ -1,0 +1,17 @@
+Write a C++ program to do the following:
+
+    Input a line of text.
+    Tokenizes the line into separate words.
+    Insert the words into a binary search tree (BST), T1.
+    Do a postorder traversal of the tree T1 nodes and print them, then insert them into a new BST: T2.
+    Do a preorder traversal of the tree T2 and print it, then insert them into T3.
+    Do an inorder traversal of the tree T3 and print it.
+    Print the heights and the number of leafs in each of the three binary search trees.
+
+Please upload the following:
+
+    The class .cpp file
+    The main program
+    The class .h file
+    Output File
+

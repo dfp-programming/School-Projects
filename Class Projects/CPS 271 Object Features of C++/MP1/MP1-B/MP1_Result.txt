@@ -1,0 +1,29 @@
+Last Name, First Name    SCORE     GRADE
+
+Baker, Thomas            87.00       B
+Jones, Bob               99.00       A
+Smith, Suzy              76.00       C
+Perez, Diego            100.00       A
+Mansour, Khaled          98.00       A
+Herndon, Angel           90.00      -A
+Trump, Donald             1.00       F
+Hammerpaw, Yumyum        68.00      +D
+LaTora, Vanessa          89.00      +B
+Muumuu, Fernando         91.00      -A
+Zuuzuu, Zoey             90.00      -A
+Simpson, Homer           15.00       F
+Atom, Oliver             45.00       F
+Fry, Phillip             10.00       F
+Farnsworth, Hubert       97.00       A
+Archer, sterling         10.00       F
+Archer, Malory           11.00       F
+Kane, Lana               60.00      -D
+Stroustrup, Bjarne       90.00      -A
+Thompson, Kenneth        89.00      +B
+
+The students with the highest scores are
+
+Jones, Bob               99.00       A
+Perez, Diego            100.00       A
+Mansour, Khaled          98.00       A
+Farnsworth, Hubert       97.00       A

@@ -1,0 +1,42 @@
+Testing the book class by Diego F. Perez
+
+INDEX     AUTHOR         TITLE                                   ISBN
+1         H. M. Deitel   C++ How to Program                      130895717
+2         Judy Bishop    Java Gently                             201593998
+3         Jeff Salvage   The C++ Coach                           201702894
+4         Thomas Wu      Object-Oriented Programming with Java   256254621
+5         Cay Horstmann  Computing Concepts with C++             471164372
+6         Gary Bronson   Program Development and Design          534371302
+7         Joyce Farrell  Object-Oriented Programming             619033614
+8         D. S. Malik    C++ Programming                         619062134
+9         James Roberge  Introduction to Programming in C++      669347183
+10        Nell Dale      C++ Plus Data Structures                763714704
+-------------------------  END OF BOOK LIST ------------------------- 
+
+ISBN 201593998 IS IN STOCK
+          Judy Bishop    Java Gently                             
+
+ISBN 888899999 IS NOT IN OUR LIBRARY
+          No name        Unknown title                           0
+
+ISBN 763714704 IS IN STOCK
+          Nell Dale      C++ Plus Data Structures                
+
+ISBN 111122222 IS NOT IN OUR LIBRARY
+          No name        Unknown title                           0
+
+ISBN 256254621 IS IN STOCK
+          Thomas Wu      Object-Oriented Programming with Java   
+
+ISBN 130895717 IS IN STOCK
+          H. M. Deitel   C++ How to Program                      
+
+ISBN 488881111 IS NOT IN OUR LIBRARY
+          No name        Unknown title                           0
+
+ISBN 534371302 IS IN STOCK
+          Gary Bronson   Program Development and Design          
+
+ISBN 619033614 IS IN STOCK
+          Joyce Farrell  Object-Oriented Programming             
+

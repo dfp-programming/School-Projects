@@ -1,0 +1,6 @@
+Testing the book class by Diego F. Perez
+
+The information for book 1 is:
+No name        Unknown title            0
+The information for book 2 is:
+Jane Smith     History Of This World    12349876

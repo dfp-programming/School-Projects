@@ -1,0 +1,13 @@
+Machine Problem 7
+
+Assignment #7
+
+ 
+
+Building on the Fraction class you did earlier in the semester, Make the Fraction class into a template so it can be instantiated using different data types for the numerator and denominator. These must be integer types, which pretty much restricts you to char, short, int, and long (unless you develop an integer type of
+
+our own).
+
+ 
+
+In main(), instantiate a class Fraction<char> and use it for the four-function calculator. Class Fraction<char> will take less memory than Fraction<int>, but won’t be able to handle large fractions.

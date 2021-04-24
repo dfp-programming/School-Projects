@@ -1,0 +1,95 @@
+    0   1   2   3   4   
+0 | H | A | P | I | N | 
+ ---------------------
+
+1 | E | S | B | C | D | 
+ ---------------------
+
+2 | F | G | J | K | L | 
+ ---------------------
+
+3 | M | O | Q | R | T | 
+ ---------------------
+
+4 | U | V | W | X | Y | 
+ ---------------------
+****************************************
+D EVDEUOA XC GCERVLEWQ, FESS BC EUV OCWWAOX XLC HNUVRAV VCWWERS
+decrypts to:
+
+****************************************
+E hello there
+encrypts to:
+
+****************************************
+D HAWWC XHARA
+decrypts to:
+
+****************************************
+E attack at dawn
+encrypts to:
+
+****************************************
+D IAAX IA NUVAR HEIIARSIMXH GRMVBA
+decrypts to:
+
+****************************************
+E the meeting is in san francisco
+encrypts to:
+
+****************************************
+D XHMS MUPCRIEXMCU MS AUORYFXAV NSMUB XHA QAYLCRV HEFFMUASS
+decrypts to:
+
+****************************************
+D XHA EUSLAR XC XHA PMRSX KNASXMCU CU XHA PMUEW IEY GA XRNA CR MX IEY GA PEWSA
+decrypts to:
+
+****************************************
+E the answer to the first question on the final may be true or it may be false
+encrypts to:
+
+****************************************
+D OCUBREXNWEXMCUS YCN IEVA MX XHRCNBH XHMS IEOHMUA FRCGWAI
+decrypts to:
+
+****************************************
+E advance to boardwalk, pass go and collect two hundred dollars
+encrypts to:
+
+****************************************
+E make my day
+encrypts to:
+
+****************************************
+E zorro is back (in town)
+encrypts to:
+
+****************************************
+E you ain't nothing but a hound dog
+encrypts to:
+
+****************************************
+E one day a computer will weigh less than a ton --- popular mechanics 1948
+encrypts to:
+
+****************************************
+E no computer will ever need more than 640k of memory -- bill gates in the mid eighties
+encrypts to:
+
+****************************************
+D YCN EMUX UCXHMUB GNX E HCNUV VCB
+decrypts to:
+
+****************************************
+D CUA VEY E OCIFNXAR LMWW LAMBH WASS XHEU E XCU --- FCFNWER IAOHEUMOS 1948
+decrypts to:
+
+****************************************
+D UC OCIFNXAR LMWW ADAR UAAV ICRA XHEU 640Q CP IAICRY -- GMWW BEXAS MU XHA IMV AMB HXMAS
+decrypts to:
+
+****************************************
+E the attack will start in $"population" minutes
+encrypts to:
+

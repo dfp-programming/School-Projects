@@ -1,0 +1,87 @@
+Applicant #: 1
+School = L GPA = 4.0 math = 600 verbal = 650 alumnus = N
+Applying to Liberal Arts
+Accepted to Liberal Arts!! 
+*******************************
+
+Applicant #: 2
+School = M GPA = 3.9 math = 610 verbal = 520 alumnus = N
+Applying to Music
+Accepted to Music!! 
+*******************************
+
+Applicant #: 3
+School = L GPA = 3.8 math = 590 verbal = 600 alumnus = N
+Applying to Liberal Arts
+Rejected - SAT too low
+*******************************
+
+Applicant #: 4
+School = L GPA = 3.0 math = 600 verbal = 600 alumnus = Y
+Applying to Liberal Arts
+Accepted to Liberal Arts!! 
+*******************************
+
+Applicant #: 5
+School = L GPA = 3.4 math = 600 verbal = 600 alumnus = N
+Applying to Liberal Arts
+Rejected - GPA too low
+*******************************
+
+Applicant #: 6
+School = L GPA = 3.0 math = 500 verbal = 490 alumnus = Y
+Applying to Liberal Arts
+Rejected - SAT too low
+*******************************
+
+Applicant #: 7
+School = L GPA = 2.9 math = 500 verbal = 500 alumnus = Y
+Applying to Liberal Arts
+Rejected - GPA too low
+*******************************
+
+Applicant #: 8
+School = M GPA = 3.5 math = 500 verbal = 490 alumnus = Y
+Applying to Music
+Rejected - SAT too low
+*******************************
+
+Applicant #: 9
+School = M GPA = 3.9 math = 490 verbal = 600 alumnus = Y
+Applying to Music
+Rejected - SAT too low
+*******************************
+
+Applicant #: 10
+School = L GPA = 3.5 math = 700 verbal = 500 alumnus = N
+Applying to Liberal Arts
+Accepted to Liberal Arts!! 
+*******************************
+
+Applicant #: 11
+School = L GPA = 3.1 math = 600 verbal = 400 alumnus = Y
+Applying to Liberal Arts
+Accepted to Liberal Arts!! 
+*******************************
+
+Applicant #: 12
+School = L GPA = 3.0 math = 490 verbal = 510 alumnus = Y
+Applying to Liberal Arts
+Accepted to Liberal Arts!! 
+*******************************
+
+Applicant #: 13
+School = L GPA = 4.0 math = 800 verbal = 800 alumnus = Y
+Applying to Liberal Arts
+Rejected - The school is full
+*******************************
+
+Applicant #: 14
+School = M GPA = 3.2 math = 500 verbal = 500 alumnus = N
+Applying to Music
+Accepted to Music!! 
+*******************************
+
+There were 14 applicants in the file
+There were 05 acceptances to Liberal Arts
+There were 02 acceptances to Music
